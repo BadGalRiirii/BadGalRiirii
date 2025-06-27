@@ -1,3 +1,6 @@
+
+
+
 Tech Stack
 
 <div align="center">
@@ -20,3 +23,8 @@ Tech Stack
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45" alt="MySQL"/>
 
 </div>
+
+## 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=BadGalRiirii&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
+
