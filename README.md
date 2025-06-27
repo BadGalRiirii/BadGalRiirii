@@ -1,9 +1,9 @@
 
-## 🐍 Watch my Viper XP
+## 🐍 Watch My Viper XP
 ![Snake dark](https://github.com/BadGalRiirii/BadGalRiirii/blob/output/github-contribution-grid-snake-dark.svg)
 
 
-Tech Stack
+## Tech Stack
 
 <div align="center">
 
