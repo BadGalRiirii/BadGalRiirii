@@ -24,6 +24,14 @@
 
 <br/>
 
+<div align="center">
+<a href="https://open.spotify.com">
+<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=natemoo-re&show_offline=true&background_color=0d1117&interchange=true&bar_color=f5c518&bar_color_cover=true" />
+</a>
+</div>
+
+<br/>
+
 <div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=8b0000&height=3" /></div>
 <div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=100&text=THE+VIPER&fontSize=28&fontColor=8b0000&fontFamily=Press+Start+2P&fontAlignY=48&desc=%C2%B7+CHAPTER+II+%C2%B7&descSize=11&descColor=444444&descAlignY=74&descAlign=50&animation=fadeIn" /></div>
 <div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=8b0000&height=3" /></div>
@@ -34,6 +42,12 @@
 
 ![snake](https://raw.githubusercontent.com/BadGalRiirii/BadGalRiirii/output/github-contribution-grid-snake-dark.svg)
 
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/BadGalRiirii/BadGalRiirii/output/profile-3d-contrib/profile-night-rainbow.svg" width="100%" />
 </div>
 
 <br/>
@@ -49,11 +63,11 @@
 ╔══════╦═════════════════════════╦════════════════╦═════════════════╗
 ║  #   ║  TARGET                 ║  STATUS        ║  WEAPON         ║
 ╠══════╬═════════════════════════╬════════════════╬═════════════════╣
-║  01  ║  Viper XP               ║  ELIMINATED    ║  JavaScript     ║
-║  02  ║  HRIS System            ║  IN PROGRESS   ║  Django / CSS   ║
+║  01  ║  dev-urandom-lvl1313    ║  IN PROGRESS   ║  JavaScript     ║
+║  02  ║  HRIS System            ║  DRAFT         ║  Django / CSS   ║
 ║  03  ║  FastAPI PIT4           ║  IN PROGRESS   ║  Python         ║
 ║  04  ║  Portfolio Site         ║  HUNTING       ║  HTML / CSS     ║
-║  05  ║  FinalPITAppDev         ║  IN PROGRESS   ║  JavaScript     ║
+║  05  ║  FinalPITAppDev         ║  ELIMINATED    ║  JavaScript     ║
 ╚══════╩═════════════════════════╩════════════════╩═════════════════╝
 </pre>
 </div>
@@ -110,6 +124,12 @@
 <div align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=BadGalRiirii&theme=radical" height="175" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=BadGalRiirii&theme=radical&utcOffset=8" height="175" />
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
 </div>
 
 <br/>
