@@ -18,15 +18,12 @@
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center"><sup>DEGREE</sup><br/><b>B S I T</b></td>
-<td align="center"><sup>FOCUS</sup><br/><b>Full-Stack Development</b></td>
-<td align="center"><sup>PRONOUNS</sup><br/><b>she &nbsp;/&nbsp; her</b></td>
-</tr>
-</table>
+[![GitHub](https://img.shields.io/badge/GITHUB-BadGalRiirii-f5c518?style=for-the-badge&logo=github&logoColor=0d1117)](https://github.com/BadGalRiirii) &nbsp;&nbsp; [![Portfolio](https://img.shields.io/badge/PORTFOLIO-badgalriirii.github.io-8b0000?style=for-the-badge&logo=firefox&logoColor=white)](https://badgalriirii.github.io)
+
+</div>
 
 <br/>
+
 
 [![GitHub](https://img.shields.io/badge/GITHUB-BadGalRiirii-f5c518?style=for-the-badge&logo=github&logoColor=0d1117)](https://github.com/BadGalRiirii) &nbsp;&nbsp; [![Portfolio](https://img.shields.io/badge/PORTFOLIO-badgalriirii.github.io-8b0000?style=for-the-badge&logo=firefox&logoColor=white)](https://badgalriirii.github.io)
 
