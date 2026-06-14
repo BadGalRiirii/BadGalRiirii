@@ -1,11 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:c84b99,50:9b59b6,100:6c5ce7&height=200&section=header&text=Hi%2C%20I'm%20Riri%20%E2%9C%A8&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=36&desc=BSIT%20Student%20%7C%20Aspiring%20Full-Stack%20Developer&descAlignY=56&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=shark&color=0:0d0d1a,50:1b2d6b,100:f5a623&height=180&text=BadGalRiirii&fontSize=52&fontColor=f5a623&animation=fadeIn&fontAlignY=38&desc=BSIT%20Student%20%7C%20Aspiring%20Full-Stack%20Developer&descAlignY=62&descAlign=50&descColor=ffffff" />
 </div>
 
 <br/>
 
 <div align="center">
-
 <pre>
        ∧＿∧
 　  （𓂂︲⩊︲𓂂)つ━☆ﾟ.*・。
@@ -15,7 +14,7 @@
 　　　　　(¸.·´ (¸.·'* ♡
 </pre>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=C084FC&center=true&vCenter=true&width=500&lines=Hello+World!;I'm+Riri+%E2%80%94+a+BSIT+student;still+learning+%26+getting+the+hang+of+things;one+commit+at+a+time+%E2%99%A1" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2500&pause=800&color=F5A623&center=true&vCenter=true&repeat=true&width=500&lines=See+you+space+cowgirl...+%E2%9C%A6;I%27m+Riri+%E2%80%94+a+BSIT+Student;Aspiring+Full-Stack+Developer;Whatever+happens%2C+happens.;Still+learning%2C+always+growing+%F0%9F%8C%B1;One+commit+at+a+time+%E2%99%A1" alt="Typing SVG" />
 
 </div>
 
@@ -27,40 +26,109 @@
 
 ### ✦ about me ✦
 
+<table>
+  <tr><td>🎓</td><td>BSIT — Bachelor of Science in Information Technology</td></tr>
+  <tr><td>💻</td><td>Full-Stack · Frontend → Backend → everywhere in between</td></tr>
+  <tr><td>🌱</td><td>Currently leveling up in React & Python / Django</td></tr>
+  <tr><td>🐍</td><td>Built a snake game — watch it eat my commits below ↓</td></tr>
+  <tr><td>🌸</td><td>she/her · BadGalRiirii · still learning, always growing ♡</td></tr>
+</table>
+
 </div>
 
-```yaml
-name:       Rehana Nicole Ruilan  ·  Riri
-pronouns:   she / her
-degree:     BSIT — Bachelor of Science in Information Technology
-stack:      Full-Stack (Frontend → Backend → everywhere in between)
-currently:  Leveling up in React & Python / Django
-side quest: Built a snake game — watch it eat my commits below ↓
-vibe:       still learning, always growing  ♡
 <br/>
-🐍 Watch My Viper XP
-<div align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BadGalRiirii/BadGalRiirii/output/github-contribution-grid-snake-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BadGalRiirii/BadGalRiirii/output/github-contribution-grid-snake.svg" /> <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/BadGalRiirii/BadGalRiirii/output/github-contribution-grid-snake-dark.svg" /> </picture> </div> <br/>
-🛠️ Tech Stack
+
+---
+
+## 🐍 Watch My Viper XP
+
 <div align="center">
-· Frontend ·
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react&theme=dark" /> <br/>
-· Backend ·
+![snake](https://raw.githubusercontent.com/BadGalRiirii/BadGalRiirii/output/github-contribution-grid-snake-dark.svg)
 
-<img src="https://skillicons.dev/icons?i=python,django,fastapi&theme=dark" /> <br/>
-· Database & Tools ·
+</div>
 
-<img src="https://skillicons.dev/icons?i=mysql,git,github&theme=dark" /> </div> <br/>📊 GitHub Stats
-<div align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=BadGalRiirii&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" /> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BadGalRiirii&layout=compact&theme=radical&hide_border=true&langs_count=6" />
+<br/>
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+**· Frontend ·**
+<br/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react&theme=dark" />
+
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com/?user=BadGalRiirii&theme=radical&hide_border=true" /> </div> <br/>📈 Activity Graph
-<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=BadGalRiirii&theme=redical&hide_border=true&bg_color=141321&color=c084fc&line=c84b99&point=ffffff" /> </div> <br/>
-🏆 GitHub Trophies
-<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=BadGalRiirii&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=6" /> </div> <br/>
+**· Backend ·**
+<br/>
+<img src="https://skillicons.dev/icons?i=python,django,fastapi&theme=dark" />
+
+<br/><br/>
+
+**· Database & Tools ·**
+<br/>
+<img src="https://skillicons.dev/icons?i=mysql,git,github&theme=dark" />
+
+</div>
+
+<br/>
+
+---
+
+## 📊 GitHub Stats
+
 <div align="center">
-[Image]
 
-thanks for stopping by — have a lovely day ♡
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=BadGalRiirii&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d0d1a&title_color=f5a623&text_color=ffffff&icon_color=00d4ff&border_color=1b2d6b" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BadGalRiirii&layout=compact&hide_border=true&langs_count=6&bg_color=0d0d1a&title_color=f5a623&text_color=ffffff&border_color=1b2d6b" />
 
-</div> <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6c5ce7,50:9b59b6,100:c84b99&height=120&section=footer" /> </div> ```
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com/?user=BadGalRiirii&hide_border=true&background=0d0d1a&stroke=1b2d6b&ring=f5a623&fire=ff6b35&currStreakLabel=f5a623&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=8892b0" />
+
+</div>
+
+<br/>
+
+---
+
+## 📈 Activity Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=BadGalRiirii&hide_border=true&bg_color=0d0d1a&color=f5a623&line=00d4ff&point=f5a623&area=true&area_color=1b2d6b" />
+
+</div>
+
+<br/>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=BadGalRiirii&theme=gruvbox&no-frame=true&no-bg=true&margin-w=6&column=6" />
+
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+
+![Visitor Count](https://komarev.com/ghpvc/?username=BadGalRiirii&color=f5a623&style=flat-square&label=Profile+Views)
+
+<br/>
+
+*「 see you space cowgirl... 」*
+
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=shark&color=0:f5a623,50:1b2d6b,100:0d0d1a&height=100&section=footer&reversal=true" />
+</div>
