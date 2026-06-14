@@ -26,7 +26,7 @@
 
 <div align="center">
 <a href="https://open.spotify.com">
-<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=natemoo-re&show_offline=true&background_color=0d1117&interchange=true&bar_color=f5c518&bar_color_cover=true" />
+<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=za2lmwfekz0v3d11kiqqbaa5k&cover_image=true&theme=natemoo-re&show_offline=true&background_color=0d1117&interchange=true&bar_color=f5c518&bar_color_cover=true" />
 </a>
 </div>
 
