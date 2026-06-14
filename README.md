@@ -2,27 +2,18 @@
   <img src="./banner.jpg" width="100%" alt="banner" />
 </div>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0a0a0a&height=80&text=BadGalRiirii&fontSize=44&fontColor=f5c518&animation=fadeIn&fontAlignY=52&desc=%E4%B8%80%E6%AD%A9%E3%81%9A%E3%81%A4%20%C2%B7%20one%20step%20at%20a%20time&descAlignY=78&descAlign=50&descColor=8b0000&descSize=14" />
-</div>
+<br/>
 
 <div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2500&pause=800&color=F5C518&center=true&vCenter=true&repeat=true&width=500&lines=Wiggle+your+big+toe.;I%27m+gonna+ship+that+code.;Whatever+happens%2C+happens.;One+commit+at+a+time." alt="Typing SVG" />
-
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0a0a0a&height=110&text=BAD%20GAL&fontSize=38&fontColor=f5c518&fontFamily=Press%20Start%202P&animation=fadeIn&fontAlignY=45&desc=RIIRII&descSize=38&descColor=8b0000&descAlign=50&descAlignY=80" />
 </div>
 
 <br/>
 
 <div align="center">
-<pre>
-       ∧＿∧
-　  （𓂂︲⩊︲𓂂)つ━⚔ﾟ.*・。
-　　 ⊂　　 ノ 　　　・゜+.
-　　　しーＪ　　　°。+ *´¨)
-　　　　　.· ´¸.·*´¨) ¸.·*¨)
-　　　　　(¸.·´ (¸.·'* ♡
-</pre>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2500&pause=800&color=F5C518&center=true&vCenter=true&repeat=true&width=500&lines=Wiggle+your+big+toe.;I%27m+gonna+ship+that+code.;Whatever+happens%2C+happens.;One+commit+at+a+time." alt="Typing SVG" />
+
 </div>
 
 <br/>
@@ -41,6 +32,11 @@
 
 <div align="center">
 
+**BSIT Student &nbsp;·&nbsp; Full-Stack Developer in training &nbsp;·&nbsp; she/her**
+
+<br/>
+
+`React · Python · Django · FastAPI · MySQL`
 
 <br/>
 
