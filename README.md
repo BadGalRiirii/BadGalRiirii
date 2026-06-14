@@ -3,12 +3,12 @@
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0a,100:0a0a0a&height=60&text=BadGalRiirii&fontSize=38&fontColor=f5c518&animation=fadeIn&fontAlignY=65" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0a0a0a&height=80&text=BadGalRiirii&fontSize=44&fontColor=f5c518&animation=fadeIn&fontAlignY=52&desc=%E4%B8%80%E6%AD%A9%E3%81%9A%E3%81%A4%20%C2%B7%20one%20step%20at%20a%20time&descAlignY=78&descAlign=50&descColor=8b0000&descSize=14" />
 </div>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2500&pause=800&color=F5C518&center=true&vCenter=true&repeat=true&width=500&lines=Wiggle+your+big+toe.;I%27m+gonna+ship+that+code.;You+didn%27t+think+it%27d+be+that+easy%3F;I%27m+Riri+%E2%80%94+a+BSIT+Student;Still+learning%2C+still+fighting+%E2%99%A1;One+commit+at+a+time." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2500&pause=800&color=F5C518&center=true&vCenter=true&repeat=true&width=500&lines=Wiggle+your+big+toe.;I%27m+gonna+ship+that+code.;Whatever+happens%2C+happens.;One+commit+at+a+time." alt="Typing SVG" />
 
 </div>
 
@@ -17,7 +17,7 @@
 <div align="center">
 <pre>
        ∧＿∧
-　  （𓂂︲⩊︲𓂂)つ━☆ﾟ.*・。
+　  （𓂂︲⩊︲𓂂)つ━⚔ﾟ.*・。
 　　 ⊂　　 ノ 　　　・゜+.
 　　　しーＪ　　　°。+ *´¨)
 　　　　　.· ´¸.·*´¨) ¸.·*¨)
@@ -27,36 +27,38 @@
 
 <br/>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=f5c518&height=4&width=600" />
-</div>
-<div align="center"><b>— CHAPTER I : THE GIRL —</b></div>
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=f5c518&height=4&width=600" />
-</div>
-
-<br/>
+---
 
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=f5c518&height=3" />
 
-<table>
-  <tr><td>🎓</td><td>BSIT — Bachelor of Science in Information Technology</td></tr>
-  <tr><td>💻</td><td>Full-Stack · Frontend → Backend → everywhere in between</td></tr>
-  <tr><td>🌱</td><td>Currently leveling up in React & Python / Django</td></tr>
-  <tr><td>🐍</td><td>Built a snake game — watch it eat my commits below ↓</td></tr>
-  <tr><td>🌸</td><td>she/her · BadGalRiirii · still learning, still fighting ♡</td></tr>
-</table>
+**— CHAPTER I · THE GIRL —**
 
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=f5c518&height=3" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=8b0000&height=4&width=600" />
+
+
+<br/>
+
+[![GitHub](https://img.shields.io/badge/GitHub-BadGalRiirii-f5c518?style=flat-square&logo=github&logoColor=0a0a0a)](https://github.com/BadGalRiirii)
+[![Portfolio](https://img.shields.io/badge/Portfolio-badgalriirii.github.io-8b0000?style=flat-square&logo=firefox&logoColor=white)](https://badgalriirii.github.io)
+
 </div>
-<div align="center"><b>— CHAPTER II : THE VIPER —</b></div>
+
+<br/>
+
+---
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=8b0000&height=4&width=600" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=8b0000&height=3" />
+
+**— CHAPTER II · THE VIPER —**
+
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=8b0000&height=3" />
 </div>
 
 <br/>
@@ -69,12 +71,40 @@
 
 <br/>
 
+---
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=f5c518&height=4&width=600" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=f5c518&height=3" />
+
+**— CHAPTER III · THE DOSSIER —**
+
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=f5c518&height=3" />
 </div>
-<div align="center"><b>— CHAPTER III : THE ARSENAL —</b></div>
+
+<br/>
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=f5c518&height=4&width=600" />
+
+| TARGET | STATUS | WEAPON |
+|:---|:---:|:---|
+| Viper XP — Snake Game | ✅ Eliminated | JavaScript |
+| HRIS System | ⬛ In Progress | CSS / Django |
+| FastAPI PIT4 | ⬛ In Progress | Python |
+| Portfolio Site | ◻ Hunting | HTML / CSS |
+| FinalPITAppDev | ⬛ In Progress | JavaScript |
+
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=8b0000&height=3" />
+
+**— CHAPTER IV · THE ARSENAL —**
+
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=8b0000&height=3" />
 </div>
 
 <br/>
@@ -101,12 +131,14 @@
 
 <br/>
 
+---
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=8b0000&height=4&width=600" />
-</div>
-<div align="center"><b>— CHAPTER IV : THE RECORD —</b></div>
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=8b0000&height=4&width=600" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=f5c518&height=3" />
+
+**— CHAPTER V · THE RECORD —**
+
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=f5c518&height=3" />
 </div>
 
 <br/>
@@ -132,23 +164,27 @@
 
 <br/>
 
+---
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=f5c518&height=4&width=600" />
-</div>
-<div align="center"><b>— CHAPTER V : THE TROPHIES —</b></div>
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=f5c518&height=4&width=600" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=8b0000&height=3" />
+
+**— CHAPTER VI · THE TROPHIES —**
+
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=8b0000&height=3" />
 </div>
 
 <br/>
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=BadGalRiirii&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=6" />
+<img src="https://github-profile-trophy.vercel.app/?username=BadGalRiirii&theme=gitdimmed&no-frame=true&no-bg=true&margin-w=8&column=4" />
 
 </div>
 
 <br/><br/>
+
+---
 
 <div align="center">
 
@@ -156,10 +192,14 @@
 
 <br/>
 
-*「 — see you space cowgirl... — 」*
+> *「 You didn't think it was gonna be that easy, did you? 」*
+
+<br/>
+
+*— see you space cowgirl... —*
 
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8b0000,100:f5c518&height=6&width=100%25" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8b0000,50:0a0a0a,100:f5c518&height=6" />
 </div>
