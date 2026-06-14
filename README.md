@@ -1,42 +1,39 @@
-```
-⠀⠀
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:c84b99,50:9b59b6,100:6c5ce7&height=200&section=header&text=Hi%2C%20I'm%20Riri%20✨&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=36&desc=BSIT%20Student%20%7C%20Aspiring%20Full-Stack%20Developer&descAlignY=56&descAlign=50" />
+</div>
+
+<br/>
+
+<div align="center">
+
+<pre>
        ∧＿∧
 　  （𓂂︲⩊︲𓂂)つ━☆ﾟ.*・。
 　　 ⊂　　 ノ 　　　・゜+.
 　　　しーＪ　　　°。+ *´¨)
 　　　　　.· ´¸.·*´¨) ¸.·*¨)
 　　　　　(¸.·´ (¸.·'* ♡
+</pre>
 
-
-𝙷𝚎llo World! 
-𝙸'𝚖 𝚁𝚒𝚛𝚒 — 𝚊 𝙱𝚂𝙸𝚃 𝚜𝚝𝚞𝚍𝚎𝚗𝚝,
-𝚜𝚝𝚒𝚕𝚕 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 𝚊𝚗𝚍 𝚐𝚎𝚝𝚝𝚒𝚗𝚐 𝚝𝚑𝚎 𝚑𝚊𝚗𝚐 𝚘𝚏 𝚝𝚑𝚒𝚗𝚐𝚜.
-```
-
-
-
-
-## 🐍 Watch My Viper XP
-![Snake dark](https://github.com/BadGalRiirii/BadGalRiirii/blob/output/github-contribution-grid-snake-dark.svg)
-
-
-## Tech Stack
-
-![HTML](https://skillicons.dev/icons?i=html)
-![CSS](https://skillicons.dev/icons?i=css)
-![JavaScript](https://skillicons.dev/icons?i=js)
-![React](https://skillicons.dev/icons?i=react)
-![React Native](https://skillicons.dev/icons?i=react)
-![Python](https://skillicons.dev/icons?i=python)
-![Django](https://skillicons.dev/icons?i=django)
-![FastAPI](https://skillicons.dev/icons?i=fastapi)
-![MySQL](https://skillicons.dev/icons?i=mysql)
-![GitHub](https://skillicons.dev/icons?i=github)
-
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=C084FC&center=true&vCenter=true&width=500&lines=𝙷𝚎llo+World!;𝙸'𝚖+𝚁𝚒𝚛𝚒+%E2%80%94+a+𝙱𝚂𝙸𝚃+student;still+learning+%26+getting+the+hang+of+things+🌱;one+commit+at+a+time+♡" alt="Typing SVG" />
 
 </div>
 
-## 🏆 GitHub Trophies
+<br/>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=BadGalRiirii&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
+---
 
+<div align="center">
+
+### ✦ about me ✦
+
+</div>
+
+```yaml
+name:       Rehana Nicole Ruilan  ·  Riri
+pronouns:   she / her
+degree:     BSIT — Bachelor of Science in Information Technology
+stack:      Full-Stack (Frontend → Backend → everywhere in between)
+currently:  Leveling up in React & Python / Django
+side quest: Built a snake game — watch it eat my commits below ↓
+vibe:       still learning, always growing  ♡
