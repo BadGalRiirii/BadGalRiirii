@@ -14,8 +14,13 @@
 
 <br/>
 
+<div align="center">
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2500&pause=800&color=F5C518&center=true&vCenter=true&repeat=true&width=500&lines=Wiggle+your+big+toe.;I%27m+gonna+ship+that+code.;Whatever+happens%2C+happens.;One+commit+at+a+time." alt="Typing SVG" />
+
+</div>
+
+<br/><br/>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=f5c518&height=3" />
@@ -29,22 +34,15 @@
 
 <div align="center">
 
-**BSIT Student &nbsp;·&nbsp; Full-Stack Developer in training &nbsp;·&nbsp; she/her**
+BSIT &nbsp;·&nbsp; Full-Stack Developer in training &nbsp;·&nbsp; she/her
 
-<br/>
+<br/><br/>
 
-`React · Python · Django · FastAPI · MySQL`
-
-<br/>
-
-[![GitHub](https://img.shields.io/badge/GitHub-BadGalRiirii-f5c518?style=flat-square&logo=github&logoColor=0a0a0a)](https://github.com/BadGalRiirii)
-[![Portfolio](https://img.shields.io/badge/Portfolio-badgalriirii.github.io-8b0000?style=flat-square&logo=firefox&logoColor=white)](https://badgalriirii.github.io)
+[![GitHub](https://img.shields.io/badge/GitHub-BadGalRiirii-f5c518?style=flat-square&logo=github&logoColor=0a0a0a)](https://github.com/BadGalRiirii) &nbsp;&nbsp; [![Portfolio](https://img.shields.io/badge/Portfolio-badgalriirii.github.io-8b0000?style=flat-square&logo=firefox&logoColor=white)](https://badgalriirii.github.io)
 
 </div>
 
-<br/>
-
----
+<br/><br/>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=8b0000&height=3" />
@@ -62,9 +60,7 @@
 
 </div>
 
-<br/>
-
----
+<br/><br/>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=f5c518&height=3" />
@@ -77,20 +73,20 @@
 <br/>
 
 <div align="center">
-
-| TARGET | STATUS | WEAPON |
-|:---|:---:|:---|
-| Viper XP — Snake Game | ✅ Eliminated | JavaScript |
-| HRIS System | ⬛ In Progress | CSS / Django |
-| FastAPI PIT4 | ⬛ In Progress | Python |
-| Portfolio Site | ◻ Hunting | HTML / CSS |
-| FinalPITAppDev | ⬛ In Progress | JavaScript |
-
+<pre>
+╔══════╦═════════════════════════╦════════════════╦═════════════════╗
+║  #   ║  TARGET                 ║  STATUS        ║  WEAPON         ║
+╠══════╬═════════════════════════╬════════════════╬═════════════════╣
+║  01  ║  Viper XP               ║  ELIMINATED    ║  JavaScript     ║
+║  02  ║  HRIS System            ║  IN PROGRESS   ║  Django / CSS   ║
+║  03  ║  FastAPI PIT4           ║  IN PROGRESS   ║  Python         ║
+║  04  ║  Portfolio Site         ║  HUNTING       ║  HTML / CSS     ║
+║  05  ║  FinalPITAppDev         ║  IN PROGRESS   ║  JavaScript     ║
+╚══════╩═════════════════════════╩════════════════╩═════════════════╝
+</pre>
 </div>
 
-<br/>
-
----
+<br/><br/>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=8b0000&height=3" />
@@ -104,27 +100,11 @@
 
 <div align="center">
 
-**· Frontend ·**
-<br/>
-<img src="https://skillicons.dev/icons?i=html,css,js,react&theme=dark" />
-
-<br/><br/>
-
-**· Backend ·**
-<br/>
-<img src="https://skillicons.dev/icons?i=python,django,fastapi&theme=dark" />
-
-<br/><br/>
-
-**· Database & Tools ·**
-<br/>
-<img src="https://skillicons.dev/icons?i=mysql,git,github&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,python,django,fastapi,mysql,git,github&theme=dark&perline=5" />
 
 </div>
 
-<br/>
-
----
+<br/><br/>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=f5c518&height=3" />
@@ -150,14 +130,10 @@
 <br/>
 
 <div align="center">
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=BadGalRiirii&hide_border=true&bg_color=0a0a0a&color=f5c518&line=8b0000&point=f5c518&area=true&area_color=1a0000" />
-
 </div>
 
-<br/>
-
----
+<br/><br/>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=8b0000&height=3" />
@@ -170,9 +146,7 @@
 <br/>
 
 <div align="center">
-
 <img src="https://github-profile-trophy.vercel.app/?username=BadGalRiirii&theme=gitdimmed&no-frame=true&no-bg=true&margin-w=8&column=4" />
-
 </div>
 
 <br/><br/>
