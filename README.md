@@ -1,6 +1,7 @@
 <div align="center">
-  <img src="./banner.jpg" width="100%" alt="banner" />
+  <img src="./banner-ascii.svg" width="100%" alt="banner" />
 </div>
+
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=80&text=BadGalRiirii&fontSize=44&fontColor=f5c518&animation=fadeIn&fontAlignY=52&desc=%E4%B8%80%E6%AD%A9%E3%81%9A%E3%81%A4%20%C2%B7%20one%20step%20at%20a%20time&descAlignY=78&descAlign=50&descColor=8b0000&descSize=14" />
