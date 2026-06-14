@@ -63,14 +63,16 @@
 ╔══════╦═════════════════════════╦════════════════╦═════════════════╗
 ║  #   ║  TARGET                 ║  STATUS        ║  WEAPON         ║
 ╠══════╬═════════════════════════╬════════════════╬═════════════════╣
-║  01  ║  dev-urandom-lvl1313    ║  IN PROGRESS   ║  JavaScript     ║
-║  02  ║  HRIS System            ║  DRAFT         ║  Django / CSS   ║
-║  03  ║  FastAPI PIT4           ║  IN PROGRESS   ║  Python         ║
-║  04  ║  Portfolio Site         ║  HUNTING       ║  HTML / CSS     ║
+║  01  ║  FleetDispatchV2        ║  ELIMINATED    ║  Python         ║
+║  02  ║  dev-urandom-lvl1313    ║  IN PROGRESS   ║  JavaScript     ║
+║  03  ║  Portfolio Site         ║  HUNTING       ║  HTML / CSS     ║
+║  04  ║  HRIS System            ║  DRAFT         ║  Django / CSS   ║
 ║  05  ║  FinalPITAppDev         ║  ELIMINATED    ║  JavaScript     ║
 ╚══════╩═════════════════════════╩════════════════╩═════════════════╝
 </pre>
 </div>
+
+
 
 <br/>
 
