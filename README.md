@@ -12,16 +12,12 @@
 
 </div>
 
-<br/>
+<br/><br/>
 
-
+---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=f5c518&height=3" />
-
-**— CHAPTER I · THE GIRL —**
-
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=f5c518&height=3" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0a0a0a&height=100&text=THE+GIRL&fontSize=30&fontColor=f5c518&fontFamily=Press+Start+2P&fontAlignY=48&desc=%C2%B7+CHAPTER+I+%C2%B7&descSize=12&descColor=555555&descAlignY=75&descAlign=50&animation=fadeIn" />
 </div>
 
 <br/>
@@ -38,12 +34,10 @@ BSIT &nbsp;·&nbsp; Full-Stack Developer in training &nbsp;·&nbsp; she/her
 
 <br/><br/>
 
+---
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=8b0000&height=3" />
-
-**— CHAPTER II · THE VIPER —**
-
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=8b0000&height=3" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0a0a0a&height=100&text=THE+VIPER&fontSize=28&fontColor=8b0000&fontFamily=Press+Start+2P&fontAlignY=48&desc=%C2%B7+CHAPTER+II+%C2%B7&descSize=12&descColor=555555&descAlignY=75&descAlign=50&animation=fadeIn" />
 </div>
 
 <br/>
@@ -56,12 +50,10 @@ BSIT &nbsp;·&nbsp; Full-Stack Developer in training &nbsp;·&nbsp; she/her
 
 <br/><br/>
 
+---
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=f5c518&height=3" />
-
-**— CHAPTER III · THE DOSSIER —**
-
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=f5c518&height=3" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0a0a0a&height=100&text=THE+DOSSIER&fontSize=22&fontColor=f5c518&fontFamily=Press+Start+2P&fontAlignY=48&desc=%C2%B7+CHAPTER+III+%C2%B7&descSize=12&descColor=555555&descAlignY=75&descAlign=50&animation=fadeIn" />
 </div>
 
 <br/>
@@ -82,12 +74,10 @@ BSIT &nbsp;·&nbsp; Full-Stack Developer in training &nbsp;·&nbsp; she/her
 
 <br/><br/>
 
+---
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=8b0000&height=3" />
-
-**— CHAPTER IV · THE ARSENAL —**
-
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=8b0000&height=3" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0a0a0a&height=100&text=THE+ARSENAL&fontSize=22&fontColor=8b0000&fontFamily=Press+Start+2P&fontAlignY=48&desc=%C2%B7+CHAPTER+IV+%C2%B7&descSize=12&descColor=555555&descAlignY=75&descAlign=50&animation=fadeIn" />
 </div>
 
 <br/>
@@ -100,12 +90,10 @@ BSIT &nbsp;·&nbsp; Full-Stack Developer in training &nbsp;·&nbsp; she/her
 
 <br/><br/>
 
+---
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=f5c518&height=3" />
-
-**— CHAPTER V · THE RECORD —**
-
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=f5c518&height=3" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0a0a0a&height=100&text=THE+RECORD&fontSize=24&fontColor=f5c518&fontFamily=Press+Start+2P&fontAlignY=48&desc=%C2%B7+CHAPTER+V+%C2%B7&descSize=12&descColor=555555&descAlignY=75&descAlign=50&animation=fadeIn" />
 </div>
 
 <br/>
@@ -129,12 +117,10 @@ BSIT &nbsp;·&nbsp; Full-Stack Developer in training &nbsp;·&nbsp; she/her
 
 <br/><br/>
 
+---
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=8b0000&height=3" />
-
-**— CHAPTER VI · THE TROPHIES —**
-
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=8b0000&height=3" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0a0a0a&height=100&text=THE+TROPHIES&fontSize=18&fontColor=8b0000&fontFamily=Press+Start+2P&fontAlignY=48&desc=%C2%B7+CHAPTER+VI+%C2%B7&descSize=12&descColor=555555&descAlignY=75&descAlign=50&animation=fadeIn" />
 </div>
 
 <br/>
