@@ -24,17 +24,11 @@
 
 <br/>
 
-
-[![GitHub](https://img.shields.io/badge/GITHUB-BadGalRiirii-f5c518?style=for-the-badge&logo=github&logoColor=0d1117)](https://github.com/BadGalRiirii) &nbsp;&nbsp; [![Portfolio](https://img.shields.io/badge/PORTFOLIO-badgalriirii.github.io-8b0000?style=for-the-badge&logo=firefox&logoColor=white)](https://badgalriirii.github.io)
-
-<br/>
-
-![](https://img.shields.io/badge/still_learning-still_fighting_%E2%99%A1-1a1a1a?style=flat-square&labelColor=1a1a1a&color=333333)
-
-</div>
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=8b0000&height=3" /></div>
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=100&text=THE+VIPER&fontSize=28&fontColor=8b0000&fontFamily=Press+Start+2P&fontAlignY=48&desc=%C2%B7+CHAPTER+II+%C2%B7&descSize=11&descColor=444444&descAlignY=74&descAlign=50&animation=fadeIn" /></div>
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=8b0000&height=3" /></div>
 
 <br/>
-
 
 <div align="center">
 
@@ -104,7 +98,7 @@
 <br/>
 
 <div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=8b0000&height=3" /></div>
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=100&text=THE+RECORD+II&fontSize=18&fontColor=8b0000&fontFamily=Press+Start+2P&fontAlignY=48&desc=%C2%B7+CHAPTER+VI+%C2%B7&descSize=11&descColor=444444&descAlignY=74&descAlign=50&animation=fadeIn" /></div>
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=100&text=THE+ARCHIVE&fontSize=20&fontColor=8b0000&fontFamily=Press+Start+2P&fontAlignY=48&desc=%C2%B7+CHAPTER+VI+%C2%B7&descSize=11&descColor=444444&descAlignY=74&descAlign=50&animation=fadeIn" /></div>
 <div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=8b0000&height=3" /></div>
 
 <br/>
