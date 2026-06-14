@@ -14,13 +14,7 @@
 
 <br/>
 
-<div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2500&pause=800&color=F5C518&center=true&vCenter=true&repeat=true&width=500&lines=Wiggle+your+big+toe.;I%27m+gonna+ship+that+code.;Whatever+happens%2C+happens.;One+commit+at+a+time." alt="Typing SVG" />
-
-</div>
-
-<br/><br/>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=f5c518&height=3" />
